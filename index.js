@@ -41,6 +41,6 @@ const getRoamDate = dateString => {
 
 var rl = readline.createInterface(process.stdin, process.stdout);
 rl.on("line", function(line) {
-  console.log(`[[${getRoamDate(chrono.parseDate(line))}]]`);
+  console.log(`#[[${getRoamDate(chrono.parseDate(line))}]]`);
   process.exit(0);
 });
