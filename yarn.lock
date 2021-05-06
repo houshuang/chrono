@@ -2,16 +2,16 @@
 # yarn lockfile v1
 
 
-chrono-node@^1.4.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/chrono-node/-/chrono-node-1.4.2.tgz#0c7fc1f264e60a660c2b2dab753a3f285dbfd8c9"
+chrono-node@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/chrono-node/-/chrono-node-2.2.4.tgz#0fa169e1d158935bb1d541010046f6107576347d"
   dependencies:
-    dayjs "^1.8.19"
+    dayjs "^1.10.0"
 
 chrono@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/chrono/-/chrono-1.0.5.tgz#3faed1b0671661bf9f573e29a037e4aa4773ff16"
 
-dayjs@^1.8.19:
-  version "1.8.19"
-  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.8.19.tgz#5117dc390d8f8e586d53891dbff3fa308f51abfe"
+dayjs@^1.10.0:
+  version "1.10.4"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.10.4.tgz#8e544a9b8683f61783f570980a8a80eaf54ab1e2"

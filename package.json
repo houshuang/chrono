@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "chrono": "^1.0.5",
-    "chrono-node": "^1.4.2"
+    "chrono-node": "^2.2.4"
   }
 }
